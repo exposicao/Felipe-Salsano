@@ -1,4 +1,7 @@
 {
+ "name": "Reconexo - Felipe Salsano",
+ "display": "fullscreen",
+ "background_color": "#FFFFFF",
  "icons": [
   {
    "sizes": "150x150",
@@ -36,9 +39,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#FFFFFF",
- "start_url": "index.htm?installed=true",
- "display": "fullscreen",
- "name": "Reconexo - Felipe Salsano",
- "theme_color": "#FFFFFF"
+ "theme_color": "#FFFFFF",
+ "start_url": "index.htm?installed=true"
 }
