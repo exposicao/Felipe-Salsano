@@ -37,8 +37,8 @@
   }
  ],
  "name": "Reconexo - Felipe Salsano",
- "start_url": "index.htm?installed=true",
  "display": "fullscreen",
  "theme_color": "#FFFFFF",
- "background_color": "#FFFFFF"
+ "background_color": "#FFFFFF",
+ "start_url": "index.htm?installed=true"
 }
